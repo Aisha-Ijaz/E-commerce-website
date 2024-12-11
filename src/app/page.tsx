@@ -1,5 +1,4 @@
 
-
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Image from "next/image";
@@ -81,7 +80,7 @@ export default function Home() {
             <h2 className='text-2xl font-bold'>#FuniroFurniture</h2>
         </div>
         <div>
-        <Image src={"/assets/Share.png"} width={1799} height={780} alt='product'></Image>
+        <Image src={"/assets/share.png"} width={1799} height={780} alt='product'></Image>
         </div>
     </div>
       </div>

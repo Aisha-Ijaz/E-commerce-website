@@ -29,7 +29,7 @@ export default function Shop() {
                 
             </div>
             <div className="m-20">
-                <Image src={"/assets/frame.png"} width={1440} height={2051} alt='items' />
+                <Image src={"/assets/Frame.png"} width={1440} height={2051} alt='items' />
             </div>
 
             <Frame />
